@@ -1,8 +1,9 @@
-## Programming Assignment 2: Lexical Scoping
-## In this assignment we'll be writing a function to cache the result of the solve function over that matrix
-## the 1st time the cacheSolve is called, the solve function is called and the result is returned
-## any subsequent call to the cacheSolve, the cached result is returned without any computations
-
+#################################################################################################################
+## Programming Assignment 2: Lexical Scoping                                                                   ##
+## In this assignment we are writing a function to cache the result of the 'solve' function over that matrix   ##
+## the 1st time the cacheSolve is called, the solve function is called and the result is returned              ##
+## any subsequent call to the cacheSolve, the cached result is returned without any computations               ##
+#################################################################################################################
 
 ## the makeCacheMatrix has 4 functions:
 ##    set to assign object a matrix and clear the cache of the solve
